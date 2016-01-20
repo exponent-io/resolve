@@ -1,0 +1,3 @@
+# resolve
+
+resolve <hostname>
